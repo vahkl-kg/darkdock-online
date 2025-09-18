@@ -73,3 +73,5 @@ If the primary **DarkDock Market** website is down, use **DarkDock mirror links*
 <a href="http://jodsc7kug54j4a3sxh26aec2aeqxmo4kyaz4xv2oosytzyesg3uagvyd.onion"><img src="/media/glimpse.webp" alt="DarkDock Login" style="max-width: 100%;"></a>
 
 <a href="http://jodsc7kug54j4a3sxh26aec2aeqxmo4kyaz4xv2oosytzyesg3uagvyd.onion"><img src="/media/delta.webp" alt="DarkDock Register" style="max-width: 100%;"></a>
+
+Update:  18 September
